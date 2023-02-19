@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicShopAPI", "EpicShopAPI\EpicShopAPI.csproj", "{05B62392-AC7F-4E90-8A9A-DD3C28D950BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05B62392-AC7F-4E90-8A9A-DD3C28D950BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B62392-AC7F-4E90-8A9A-DD3C28D950BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B62392-AC7F-4E90-8A9A-DD3C28D950BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B62392-AC7F-4E90-8A9A-DD3C28D950BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58365C7E-FE87-40A0-9180-8914F8693A1F}
+	EndGlobalSection
+EndGlobal
